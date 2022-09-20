@@ -11,4 +11,5 @@ Azure Monitor: https://aka.ms/techdays/devops/azure-monitor
 ARM template: https://aka.ms/techdays/devops/rm-templates 
 Azure Portal: https://aka.ms/techdays/devops/portal 
 Azure PowerShell: https://aka.ms/techdays/devops/powershell 
-Bicep template: https://aka.ms/techdays/devops/bicep-template Terraform template: https://aka.ms/techdays/devops/terraform
+Bicep template: https://aka.ms/techdays/devops/bicep-template 
+Terraform template: https://aka.ms/techdays/devops/terraform
